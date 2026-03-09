@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👩‍💻 About Me  
 
 💡 Motivated and detail-oriented **AI Engineer / Data Scientist** passionate about building intelligent, data driven solutions.  
 ⚡ Experienced in developing **AI-powered applications**, **Machine learning models**, and real-time computer vision solutions.  
@@ -88,8 +88,10 @@
 
 ## 🏆 Certifications  
 
-✔  SQL (Advanced) - HackerRank Certification 
+✔  SQL (Advanced) - HackerRank Certification
+
 ✔  Data Analysis with NumPy, Pandas, and Python - Scaler Masterclass 
+
 ✔  ML Ops Fundamentals – Building, Deploying, and Scaling AI Solutions - Scaler Masterclass
 
 ## 🎓 Education  
