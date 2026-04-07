@@ -135,6 +135,5 @@ Let's collaborate, share ideas, and build impactful technology together 🚀
 
 
 - 📧 Email: sfshifa026@gmail.com  
-- 📞 +91-9072041691
 
 ⭐ *Building Intelligent Systems That Solve Real-World Problems*
